@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikhazrath
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning react react native and nodejs express
-- 📫 How to reach me shaikhazrathali123@gmail.com ig:@shaik.hazrath.ali
+- 📫 How to reach me shaikhazrathali123@gmail.com 
 
 <!---
 shaikhazrath/shaikhazrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
