@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shaikhazrath
 - 👀 I’m interested in web and app development
-- 🌱 I’m currently learning react react native and nodejs express
 - 📫 How to reach me shaikhazrathali123@gmail.com 
 
 <!---
